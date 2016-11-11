@@ -1,2 +1,6 @@
 # hello_world
 Saying hello to github...
+# adding more
+we can count to 10:
+1,2,3,4,6... ermm...
+
